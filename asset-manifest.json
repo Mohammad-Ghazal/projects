@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/MERAKI_Academy_Project_5-eAuctions/static/css/main.4434d06f.chunk.css",
+    "main.js": "/MERAKI_Academy_Project_5-eAuctions/static/js/main.75e657e1.chunk.js",
+    "main.js.map": "/MERAKI_Academy_Project_5-eAuctions/static/js/main.75e657e1.chunk.js.map",
+    "runtime-main.js": "/MERAKI_Academy_Project_5-eAuctions/static/js/runtime-main.ead9974a.js",
+    "runtime-main.js.map": "/MERAKI_Academy_Project_5-eAuctions/static/js/runtime-main.ead9974a.js.map",
+    "static/css/2.30f0c799.chunk.css": "/MERAKI_Academy_Project_5-eAuctions/static/css/2.30f0c799.chunk.css",
+    "static/js/2.31d8d520.chunk.js": "/MERAKI_Academy_Project_5-eAuctions/static/js/2.31d8d520.chunk.js",
+    "static/js/2.31d8d520.chunk.js.map": "/MERAKI_Academy_Project_5-eAuctions/static/js/2.31d8d520.chunk.js.map",
+    "index.html": "/MERAKI_Academy_Project_5-eAuctions/index.html",
+    "static/css/2.30f0c799.chunk.css.map": "/MERAKI_Academy_Project_5-eAuctions/static/css/2.30f0c799.chunk.css.map",
+    "static/css/main.4434d06f.chunk.css.map": "/MERAKI_Academy_Project_5-eAuctions/static/css/main.4434d06f.chunk.css.map",
+    "static/js/2.31d8d520.chunk.js.LICENSE.txt": "/MERAKI_Academy_Project_5-eAuctions/static/js/2.31d8d520.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ead9974a.js",
+    "static/css/2.30f0c799.chunk.css",
+    "static/js/2.31d8d520.chunk.js",
+    "static/css/main.4434d06f.chunk.css",
+    "static/js/main.75e657e1.chunk.js"
+  ]
+}
